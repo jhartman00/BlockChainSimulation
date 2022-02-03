@@ -7,7 +7,7 @@ I created this program to learn more about cryptocurrency and blockchain technol
 
 ## Authors
 
-- [@jamiehartman00](https://www.github.com/jamiehartman00)
+- [@jhartman00](https://www.github.com/jhartman00)
 
 
 
