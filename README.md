@@ -44,7 +44,7 @@ https://youtu.be/M_qdeU8dpS0
 
 #### Questions?
 
-Feel free to email me at jamiehartman00@gmail.com or jhartman1@tulane.edu and I will get back to you as soon as possible.
+Feel free to email me at jamiehartman00@gmail.com or jhartman1@tulane.edu, and I will get back to you as soon as possible.
 
 
 
