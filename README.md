@@ -51,7 +51,7 @@ Feel free to email me at jamiehartman00@gmail.com or jhartman1@tulane.edu and I 
 
 ## Lessons Learned
 
-I learned a lot creating this project.  To start, I learned a lot about blockchain technology, how hashing works, and how each block is connected and verified.  I also learned how to multithread a java program.
+I learned a lot creating this project.  To start, I learned a lot about blockchain technology, how hashing works, and how each block is connected and verified.  I also learned how to multithread a java program.  These are all valuble lessons that I will use in many projects going forward.
 
 ## Want more?
 
