@@ -55,7 +55,7 @@ I learned a lot creating this project.  To start, I learned a lot about blockcha
 
 ## Want more?
 
-Check out my website at https://jamiehartman-com.stackstaging.com/
+Check out my website at https://jamiehartman.tech/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
