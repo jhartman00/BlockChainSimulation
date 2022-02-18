@@ -18,7 +18,7 @@ https://youtu.be/M_qdeU8dpS0
 
 ## Running the Program
 
-1. To try this project for yourself make sure you have Java installed on your computer.  If you don't you can go to https://www.java.com/en/download/ to get it for free!
+1. To try this project for yourself make sure you have Java installed on your computer.  If you don't have Java, you can go to https://www.java.com/en/download/ to get it for free.
     - Windows: https://www.youtube.com/watch?v=IJ-PJbvJBGs
     - Mac: https://www.youtube.com/watch?v=pxi3iIy4F5A
 2. Clone the directory or download the zip file to a location of your choosing.  
@@ -34,10 +34,10 @@ https://youtu.be/M_qdeU8dpS0
 
 ## A few things to note
 
-1. Mining a block in a blockchain can take a while, especially if you choose a high starting zero amount.  I have found that a zero amount of 6 generates within a minute and 7 can take anywhere from a minute to 10 minutes.  
-2. After the first block the program will automatically adjust the zero amount of the next block.  If the block takes longer than 60 seconds to generate the zero amount will decrease by one.  If the block takes less than 10 seconds to generate the zero amount will increase.  If the block takes between 10 and 60 seconds to generate the zero amount will not change.
-3. The chat function is currently in beta.  It works semi well but will clog up the screen if the block takes a while to generate as there can be hundreds of messages.
-4. The "miners" are different threads on your machine.  Becuase of this any thread can mine a block and after one is mined they will all move to mining the next block.
+1. Mining a block in a blockchain can take a while, especially if you choose a high starting zero amount.  I have found that a zero amount of 6 generates a block within a minute and a starting zero of 7 can take anywhere from a minute to 10 minutes.  
+2. After the first block, the program will automatically adjust the zero amount of the next block. This mirors how real world blockchains remain secure as technology gets gets faster and more efficient. If the block takes longer than 60 seconds to generate, the zero amount will decrease by one.  If the block takes less than 10 seconds to generate, the zero amount will increase.  If the block takes between 10 and 60 seconds to generate, the zero amount will not change.
+3. The chat function is currently in beta.  It works but will clog up the screen if the block takes a while to generate as there can be hundreds of messages.
+4. The "miners" are different threads on your machine.  Becuase of this, any thread can mine a block and after one is mined they will all move to mining the next block.
 
 
 ## FAQ
@@ -51,7 +51,7 @@ Feel free to email me at jamiehartman00@gmail.com or jhartman1@tulane.edu, and I
 
 ## Lessons Learned
 
-I learned a lot creating this project.  To start, I learned a lot about blockchain technology, how hashing works, and how each block is connected and verified.  I also learned how to multithread a java program.  These are all valuble lessons that I will use in many projects going forward.
+I learned a lot creating this project.  I learned a lot about blockchain technology, how hashing works, and how each block is connected and verified.  I also learned how to multithread a java program.  These are all valuble lessons that I will use in many projects going forward.
 
 ## Want more?
 
